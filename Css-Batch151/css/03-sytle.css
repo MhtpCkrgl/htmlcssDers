@@ -1,0 +1,22 @@
+h1{
+    color: crimson;
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+
+
+}
+p{
+    color: chocolate;
+    background-color: black;
+    text-align: right;
+    font-size: smaller;
+
+
+
+
+
+}
