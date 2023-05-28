@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MyPage</title>
+  </head>
+  <body>
+    <h1>This is my page</h1>
+    <hr />
+    <span>
+      <p>
+        <ol>
+           <a href="#tester" ><li  >testers</li></a> 
+            <li>developers</li>
+            <li>syber sequrity</li>
+            <li>data scientist</li>
+            <a href="#sayfasonu" >Sayfa sonuna gitmek icin tiklayiniz</a>
+        </ol>
+        <span id="tester" style="background-color: red;"
+          >Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio id
+          blanditiis eligendi rerum cum facilis ipsam perspiciatis aperiam
+          inventore! Tenetur animi vero reprehenderit in magni consequatur
+          delectus reiciendis nam magnam!</span
+        >
+        
+        <span
+          >Voluptates iusto totam debitis maxime officiis voluptate non
+          architecto qui eveniet corporis, soluta molestias dignissimos
+          temporibus earum perferendis possimus repellat illum dolor quasi
+          officia. Eos sed culpa tempora ipsum error!</span
+        ><span
+          >Fuga, a debitis, est quos ut voluptas fugiat quibusdam atque, alias
+          aliquid dolor dicta? Ullam fugiat sit velit eos obcaecati. Hic sequi
+          necessitatibus at dolorem eius autem quis. Iure, nobis.</span
+        ><span
+          >Accusamus maiores voluptatem natus. Fugit, nostrum ipsam. Dolorem
+          voluptatum, cupiditate praesentium fugiat ratione aliquam ullam magni
+          expedita nihil illo commodi saepe amet qui dolores eligendi assumenda
+          quibusdam doloremque itaque nulla.</span
+        ><span
+          >Ipsam pariatur libero modi sequi iusto maxime assumenda obcaecati!
+          Reprehenderit ipsa placeat quos, neque ipsam nobis dignissimos ex non
+          expedita, error repellendus aliquid! Voluptates saepe ipsa iste
+          doloribus sequi animi.</span
+          
+        >
+        <h2 id="sayfasonu"></h2>
+      </p>
+    </span>
+  </body>
+</html>
